@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Mehmet Göktuğ Karoğlu — Non-custodial DeFi Primitives, Smart Contracts, and AI Financial Automation" width="100%" />
-</p>
+![Mehmet Göktuğ Karoğlu — Non-custodial DeFi Primitives, Smart Contracts, and AI Financial Automation](https://github.com/AzrielTheHellrazor/AzrielTheHellrazor/blob/main/assets/banner.jpg?raw=true)
 
 Engineering non-custodial DeFi primitives, security-audited smart contracts, and AI-powered financial automation.
 
