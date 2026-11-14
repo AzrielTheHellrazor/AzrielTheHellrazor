@@ -15,7 +15,7 @@ Start with **`portus`** if you are looking at institutional Web3 treasury archit
 | [**portus**](https://github.com/AzrielTheHellrazor/portus) | Institutional multi-currency corporate treasury on Stellar | Fintech & Stellar builders | Active |
 | [**grid-surgeon-okx-team1**](https://github.com/AzrielTheHellrazor/grid-surgeon-okx-team1) | Grid trading & execution tooling for OKX workflows | Quant & algo traders | Active |
 | [**polymarket-agent**](https://github.com/AzrielTheHellrazor/polymarket-agent) | AI-driven market analysis and automation for Polymarket | AI & prediction market devs | Experimental |
-| [**retro-base-contracts**](https://github.com/AzrielTheHellrazor/retro-base-contracts) | Solidity smart contracts built for Base | EVM / Solidity developers | Reference |
+| [**uniswap_v4_address_miner**](https://github.com/AzrielTheHellrazor/uniswap_v4_address_miner) | C++ contract address miner & scorer for Uniswap v4 | EVM & DeFi developers | Reference |
 | [**nomad-radar-bot**](https://github.com/AzrielTheHellrazor/nomad-radar-bot) | Holiday & dual-mode budget travel deal Telegram bot | Turkish travelers & bot devs | Maintained |
 | [**Asyar-language-extension**](https://github.com/AzrielTheHellrazor/Asyar-language-extension) | Trilingual (DE/EN/TR) dictionary & German trainer for Asyar | Language learners & extension devs | Maintained |
 
@@ -40,6 +40,6 @@ Start with **`portus`** if you are looking at institutional Web3 treasury archit
 
 **Explore the flagship codebase:** [**github.com/AzrielTheHellrazor/portus**](https://github.com/AzrielTheHellrazor/portus)
 
-Elsewhere: [LinkedIn](https://www.linkedin.com/in/mehmet-goktug-karoglu/) · [All Repositories](https://github.com/AzrielTheHellrazor?tab=repositories)
+Elsewhere: [X (@KarogluGoktug)](https://x.com/KarogluGoktug) · [LinkedIn](https://www.linkedin.com/in/mehmet-goktug-karoglu/) · [All Repositories](https://github.com/AzrielTheHellrazor?tab=repositories)
 
 <!-- profile-owner: AzrielTheHellrazor | last-reviewed: 2026-11-14 | review-triggers: major release, new flagship repo, hackathon/grant launch -->
